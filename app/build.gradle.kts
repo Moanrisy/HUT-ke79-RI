@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hutke_79ri"
+    namespace = "top.terlampau.hutke_79ri"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.hutke_79ri"
+        applicationId = "top.terlampau.hutke_79ri"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

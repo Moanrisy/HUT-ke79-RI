@@ -1,4 +1,4 @@
-package com.example.hutke_79ri
+package top.terlampau.hutke_79ri
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -25,7 +25,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.hutke_79ri.ui.theme.HUTKe79RITheme
+import top.terlampau.hutke_79ri.theme.HUTKe79RITheme
 import kotlinx.coroutines.delay
 import java.time.LocalDateTime
 import java.time.LocalDateTime.of

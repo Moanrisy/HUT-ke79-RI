@@ -1,6 +1,5 @@
-package com.example.hutke_79ri.ui.theme
+package top.terlampau.hutke_79ri.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

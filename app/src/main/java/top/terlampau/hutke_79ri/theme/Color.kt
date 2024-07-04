@@ -1,4 +1,4 @@
-package com.example.hutke_79ri.ui.theme
+package top.terlampau.hutke_79ri.theme
 
 import androidx.compose.ui.graphics.Color
 
